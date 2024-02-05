@@ -1,0 +1,43 @@
+        .dec {
+            width: 100%;
+            height: 40px;
+            background-color: black;
+        }
+
+        .back-img {
+            background-image: url('../images/desi.jfif');
+            background-repeat: no-repeat;
+            background-position: bottom left;
+            height: 500px;
+        }
+        .bg-text {
+            padding-top: 100px;
+            padding-left: 20px;
+            font-size: 50px;
+            font-weight: 700;
+        }
+
+        .nav {
+            float: right;
+            color: white;
+            padding-top: 10px;
+        }
+        .nav span {
+            margin-right: 50px;
+            padding: 10px;
+           
+        }
+        .nav .active {
+            background-color: #439312;
+        }
+        .fed {
+            background-color: #439312;
+            padding: 20px 50px;
+            border: #439312 1px solid;
+            border-top-right-radius: 30px;
+            border-bottom-left-radius: 30px;
+            color: white; 
+            display: block;
+            margin-top: 10px;
+        }
+       
